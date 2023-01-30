@@ -1,0 +1,18 @@
+body {
+    background: #000000;
+}
+
+aside{
+    float: left;
+}
+
+aside img {
+    width: 150px;
+}
+
+main{
+    float:right;
+}
+ul{
+    float:left;
+}
